@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Marketsis PV · Demo server</title>
+  <style>
+    :root { color-scheme: light; --brand: #0693e3; --ink: #0b1f33; --muted: #5b6b7c; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: var(--ink); background: #f3f7fb; }
+    main { max-width: 720px; margin: 0 auto; padding: 32px 20px 48px; }
+    h1 { font-size: 1.6rem; margin: 0 0 4px; }
+    .sub { color: var(--muted); margin: 0 0 24px; }
+    .card { background: #fff; border-radius: 16px; padding: 24px; box-shadow: 0 4px 18px rgba(11, 31, 51, .08); margin-bottom: 20px; }
+    .qr { display: flex; justify-content: center; }
+    .qr img { width: min(320px, 80vw); height: auto; }
+    ol { padding-left: 20px; line-height: 1.6; }
+    code, .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; background: #eef3f8; padding: 2px 6px; border-radius: 6px; word-break: break-all; }
+    .creds { display: grid; grid-template-columns: auto 1fr; gap: 6px 16px; font-size: 1.05rem; }
+    .note { background: #fff8e6; border-left: 4px solid #eab308; padding: 12px 16px; border-radius: 8px; }
+    .es { color: var(--muted); font-size: .95rem; }
+    a { color: var(--brand); }
+    footer { color: var(--muted); font-size: .85rem; text-align: center; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Marketsis PV · Demo server</h1>
+  <p class="sub">Pairing QR for App Review · Código QR de emparejamiento para la revisión</p>
+
+  <div class="card">
+    <div class="qr"><img src="/qr.svg" alt="Marketsis PV pairing QR code"></div>
+    <p style="text-align:center"><a href="/qr.png" download="marketsis-demo-qr.png">Download QR (PNG)</a></p>
+  </div>
+
+  <div class="card">
+    <h2>How to connect</h2>
+    <ol>
+      <li>Open <b>Marketsis PV</b> on the iPhone or iPad.</li>
+      <li>On the first screen, tap <b>Escanear QR de emparejamiento</b> (Scan pairing QR) and scan the code above (from another screen, or print it).</li>
+      <li>Sign in with the demo account below.</li>
+    </ol>
+    <div class="creds">
+      <span>User</span><span class="mono">demo</span>
+      <span>Password</span><span class="mono">{{PASSWORD}}</span>
+    </div>
+    <p>Server URL encoded in the QR: <code>{{API_URL}}</code></p>
+    <p class="note">This is a free cloud server that sleeps when idle. If the first connection or sign-in takes long, <b>wait up to 1 minute and try again</b>. Demo data is fictitious and resets every day.</p>
+  </div>
+
+  <div class="card">
+    <h2>Suggested walkthrough</h2>
+    <ol>
+      <li><b>Comandas → Nueva Comanda</b> (new order): pick a customer, add products and send it.</li>
+      <li><b>Comprobantes → Pedido</b> (checkout): choose the sent order and save it to charge it.</li>
+      <li><b>Vacíos y Envases → Registro de Vacíos</b>: register returned containers for a customer.</li>
+      <li><b>Listados</b> (reports): open <b>Resumen de Venta</b> (sales summary, table) and <b>Stock del puesto</b> (stock, cards).</li>
+    </ol>
+  </div>
+
+  <div class="card es">
+    <h2>En español</h2>
+    <p>Abrí la app, tocá <b>Escanear QR de emparejamiento</b>, escaneá el código e ingresá con usuario <b>demo</b> y contraseña <b>{{PASSWORD}}</b>.
+      Si la primera conexión tarda, esperá hasta 1 minuto: el servidor gratuito se apaga cuando no se usa.
+      Los datos son de ejemplo y se reinician todos los días.</p>
+  </div>
+
+  <footer>Marketsis PV demo · v{{VERSION}} · {{YEAR}}</footer>
+</main>
+</body>
+</html>

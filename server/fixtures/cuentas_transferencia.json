@@ -1,0 +1,12 @@
+{
+ "cuentas": [
+  {
+   "bcp_id": 3,
+   "detalle": "Mercado Pago - Puesto Demo"
+  },
+  {
+   "bcp_id": 7,
+   "detalle": "Banco Demo Cta. Cte."
+  }
+ ]
+}

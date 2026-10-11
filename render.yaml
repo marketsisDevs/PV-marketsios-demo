@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: marketsis-pv-demo
+    runtime: python
+    plan: free
+    rootDir: server
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT --proxy-headers --forwarded-allow-ips "*"
+    healthCheckPath: /api/health
+    autoDeploy: true
+    buildFilter:
+      paths:
+        - server/**
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: DEMO_SECRET
+        generateValue: true
+      - key: DEMO_DB_PATH
+        value: /tmp/demo.sqlite3
+      - key: DEMO_PASSWORD
+        value: demo1234
+      - key: DEMO_COMPANY
+        value: Marketsis Demo

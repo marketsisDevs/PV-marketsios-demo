@@ -1,0 +1,35 @@
+{
+ "formas_pago": [
+  {
+   "id": 1,
+   "Detalle": "C O N T A D O Final",
+   "observaciones": "el precio tiene el Iva Incluido",
+   "SoloCpteA": false
+  },
+  {
+   "id": 3,
+   "Detalle": "Contado + IVA",
+   "observaciones": "el precio NO tiene el Iva Incluido y lo abona",
+   "SoloCpteA": true
+  },
+  {
+   "id": 4,
+   "Detalle": "Cta Cte + IVA",
+   "observaciones": "el precio NO tiene el iva incluido y es en cta cte",
+   "SoloCpteA": true
+  },
+  {
+   "id": 2,
+   "Detalle": "Cta Cte Final",
+   "observaciones": "el precio tiene el iva incluido y es en cta cte",
+   "SoloCpteA": false
+  },
+  {
+   "id": 5,
+   "Detalle": "Transferencia",
+   "observaciones": "Final con Mercado Pago",
+   "SoloCpteA": false
+  }
+ ],
+ "total": 5
+}

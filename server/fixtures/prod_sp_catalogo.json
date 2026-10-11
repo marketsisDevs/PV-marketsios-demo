@@ -1,0 +1,1834 @@
+{
+ "productos": [
+  {
+   "id": 34,
+   "label": "ACEITE OLIVA"
+  },
+  {
+   "id": 37,
+   "label": "ACEITE OLIVA"
+  },
+  {
+   "id": 70,
+   "label": "AGATHA"
+  },
+  {
+   "id": 23,
+   "label": "AJÍ"
+  },
+  {
+   "id": 18,
+   "label": "Ajo"
+  },
+  {
+   "id": 31,
+   "label": "ANANA"
+  },
+  {
+   "id": 3,
+   "label": "ANCO"
+  },
+  {
+   "id": 328,
+   "label": "ANCO RAYADO"
+  },
+  {
+   "id": 22,
+   "label": "ARANDANO"
+  },
+  {
+   "id": 30,
+   "label": "BANANA"
+  },
+  {
+   "id": 4,
+   "label": "BATATA"
+  },
+  {
+   "id": 5,
+   "label": "BATATIN"
+  },
+  {
+   "id": 17,
+   "label": "BATATON"
+  },
+  {
+   "id": 44,
+   "label": "Berenjena"
+  },
+  {
+   "id": 42,
+   "label": "Bolsas vacias"
+  },
+  {
+   "id": 43,
+   "label": "BROCOLI"
+  },
+  {
+   "id": 55,
+   "label": "BROCOLI"
+  },
+  {
+   "id": 39,
+   "label": "BRUSELAS"
+  },
+  {
+   "id": 15,
+   "label": "CABUTIA"
+  },
+  {
+   "id": 2,
+   "label": "CEBOLLA"
+  },
+  {
+   "id": 7,
+   "label": "CEBOLLIN"
+  },
+  {
+   "id": 6,
+   "label": "CEBOLLON"
+  },
+  {
+   "id": 125,
+   "label": "CHAUCHA"
+  },
+  {
+   "id": 24,
+   "label": "CHOCLO"
+  },
+  {
+   "id": 167,
+   "label": "CHOCLO AMARILLO"
+  },
+  {
+   "id": 40,
+   "label": "CIRUELA"
+  },
+  {
+   "id": 100,
+   "label": "Debito Cheque"
+  },
+  {
+   "id": 28,
+   "label": "DURAZNO"
+  },
+  {
+   "id": 56,
+   "label": "Frutilla"
+  },
+  {
+   "id": 50,
+   "label": "FRUTOS SECOS"
+  },
+  {
+   "id": 123,
+   "label": "JENGIBRE"
+  },
+  {
+   "id": 11,
+   "label": "KIWI"
+  },
+  {
+   "id": 57,
+   "label": "LIMA"
+  },
+  {
+   "id": 60,
+   "label": "LIMON"
+  },
+  {
+   "id": 19,
+   "label": "MANDIOCA"
+  },
+  {
+   "id": 45,
+   "label": "Mango"
+  },
+  {
+   "id": 20,
+   "label": "MANI"
+  },
+  {
+   "id": 32,
+   "label": "MANZANA"
+  },
+  {
+   "id": 10,
+   "label": "MELON"
+  },
+  {
+   "id": 105,
+   "label": "MENTA"
+  },
+  {
+   "id": 52,
+   "label": "MIX FRUTOS"
+  },
+  {
+   "id": 450,
+   "label": "MORRON ROJO"
+  },
+  {
+   "id": 520,
+   "label": "NARANJA"
+  },
+  {
+   "id": 25,
+   "label": "NARANJA"
+  },
+  {
+   "id": 75,
+   "label": "PALLEST"
+  },
+  {
+   "id": 27,
+   "label": "PALTA"
+  },
+  {
+   "id": 1,
+   "label": "PAPA"
+  },
+  {
+   "id": 9,
+   "label": "PAPIN"
+  },
+  {
+   "id": 8,
+   "label": "PAPON"
+  },
+  {
+   "id": 29,
+   "label": "PELON"
+  },
+  {
+   "id": 124,
+   "label": "PEPINOS"
+  },
+  {
+   "id": 71,
+   "label": "Pera"
+  },
+  {
+   "id": 33,
+   "label": "PIÑA"
+  },
+  {
+   "id": 38,
+   "label": "PLATANO"
+  },
+  {
+   "id": 41,
+   "label": "Pomelo"
+  },
+  {
+   "id": 13,
+   "label": "REMOLACHA"
+  },
+  {
+   "id": 471,
+   "label": "REMOLACHA BATATA"
+  },
+  {
+   "id": 98,
+   "label": "REMOLACHON"
+  },
+  {
+   "id": 26,
+   "label": "REMOLACHON"
+  },
+  {
+   "id": 63,
+   "label": "RODEO"
+  },
+  {
+   "id": 69,
+   "label": "RODEO"
+  },
+  {
+   "id": 103,
+   "label": "ROMERO"
+  },
+  {
+   "id": 104,
+   "label": "SALVIA"
+  },
+  {
+   "id": 12,
+   "label": "SANDIA"
+  },
+  {
+   "id": 21,
+   "label": "TOMATE"
+  },
+  {
+   "id": 106,
+   "label": "TOMILLO"
+  },
+  {
+   "id": 800,
+   "label": "UVA"
+  },
+  {
+   "id": 35,
+   "label": "VINO"
+  },
+  {
+   "id": 36,
+   "label": "VINO"
+  },
+  {
+   "id": 14,
+   "label": "ZANAHORIA"
+  },
+  {
+   "id": 51,
+   "label": "Zapallito"
+  },
+  {
+   "id": 16,
+   "label": "ZAPALLO"
+  }
+ ],
+ "variedades": [
+  {
+   "var_id": 65,
+   "prd_id": 15,
+   "label": "."
+  },
+  {
+   "var_id": 72,
+   "prd_id": 1,
+   "label": "."
+  },
+  {
+   "var_id": 74,
+   "prd_id": 14,
+   "label": "."
+  },
+  {
+   "var_id": 80,
+   "prd_id": 4,
+   "label": "."
+  },
+  {
+   "var_id": 81,
+   "prd_id": 19,
+   "label": "."
+  },
+  {
+   "var_id": 84,
+   "prd_id": 20,
+   "label": "."
+  },
+  {
+   "var_id": 86,
+   "prd_id": 8,
+   "label": "."
+  },
+  {
+   "var_id": 92,
+   "prd_id": 13,
+   "label": "."
+  },
+  {
+   "var_id": 93,
+   "prd_id": 5,
+   "label": "."
+  },
+  {
+   "var_id": 115,
+   "prd_id": 21,
+   "label": "."
+  },
+  {
+   "var_id": 123,
+   "prd_id": 12,
+   "label": "."
+  },
+  {
+   "var_id": 146,
+   "prd_id": 23,
+   "label": "."
+  },
+  {
+   "var_id": 167,
+   "prd_id": 24,
+   "label": "."
+  },
+  {
+   "var_id": 168,
+   "prd_id": 2,
+   "label": "."
+  },
+  {
+   "var_id": 173,
+   "prd_id": 1,
+   "label": "."
+  },
+  {
+   "var_id": 174,
+   "prd_id": 25,
+   "label": "."
+  },
+  {
+   "var_id": 175,
+   "prd_id": 11,
+   "label": "."
+  },
+  {
+   "var_id": 177,
+   "prd_id": 26,
+   "label": "."
+  },
+  {
+   "var_id": 184,
+   "prd_id": 9,
+   "label": "."
+  },
+  {
+   "var_id": 185,
+   "prd_id": 27,
+   "label": "."
+  },
+  {
+   "var_id": 190,
+   "prd_id": 100,
+   "label": "."
+  },
+  {
+   "var_id": 228,
+   "prd_id": 60,
+   "label": "."
+  },
+  {
+   "var_id": 243,
+   "prd_id": 18,
+   "label": "."
+  },
+  {
+   "var_id": 244,
+   "prd_id": 43,
+   "label": "."
+  },
+  {
+   "var_id": 251,
+   "prd_id": 28,
+   "label": "."
+  },
+  {
+   "var_id": 252,
+   "prd_id": 29,
+   "label": "."
+  },
+  {
+   "var_id": 253,
+   "prd_id": 30,
+   "label": "."
+  },
+  {
+   "var_id": 254,
+   "prd_id": 31,
+   "label": "."
+  },
+  {
+   "var_id": 255,
+   "prd_id": 32,
+   "label": "."
+  },
+  {
+   "var_id": 256,
+   "prd_id": 33,
+   "label": "."
+  },
+  {
+   "var_id": 257,
+   "prd_id": 38,
+   "label": "."
+  },
+  {
+   "var_id": 265,
+   "prd_id": 520,
+   "label": "."
+  },
+  {
+   "var_id": 266,
+   "prd_id": 520,
+   "label": "."
+  },
+  {
+   "var_id": 270,
+   "prd_id": 800,
+   "label": "."
+  },
+  {
+   "var_id": 275,
+   "prd_id": 98,
+   "label": "."
+  },
+  {
+   "var_id": 282,
+   "prd_id": 39,
+   "label": "."
+  },
+  {
+   "var_id": 283,
+   "prd_id": 40,
+   "label": "."
+  },
+  {
+   "var_id": 284,
+   "prd_id": 41,
+   "label": "."
+  },
+  {
+   "var_id": 285,
+   "prd_id": 45,
+   "label": "."
+  },
+  {
+   "var_id": 286,
+   "prd_id": 75,
+   "label": "."
+  },
+  {
+   "var_id": 287,
+   "prd_id": 44,
+   "label": "."
+  },
+  {
+   "var_id": 288,
+   "prd_id": 51,
+   "label": "."
+  },
+  {
+   "var_id": 293,
+   "prd_id": 450,
+   "label": "."
+  },
+  {
+   "var_id": 294,
+   "prd_id": 123,
+   "label": "."
+  },
+  {
+   "var_id": 295,
+   "prd_id": 123,
+   "label": "."
+  },
+  {
+   "var_id": 296,
+   "prd_id": 123,
+   "label": "."
+  },
+  {
+   "var_id": 297,
+   "prd_id": 57,
+   "label": "."
+  },
+  {
+   "var_id": 301,
+   "prd_id": 124,
+   "label": "."
+  },
+  {
+   "var_id": 302,
+   "prd_id": 125,
+   "label": "."
+  },
+  {
+   "var_id": 303,
+   "prd_id": 103,
+   "label": "."
+  },
+  {
+   "var_id": 304,
+   "prd_id": 104,
+   "label": "."
+  },
+  {
+   "var_id": 305,
+   "prd_id": 105,
+   "label": "."
+  },
+  {
+   "var_id": 306,
+   "prd_id": 106,
+   "label": "."
+  },
+  {
+   "var_id": 307,
+   "prd_id": 56,
+   "label": "."
+  },
+  {
+   "var_id": 120,
+   "prd_id": 14,
+   "label": "20X1"
+  },
+  {
+   "var_id": 205,
+   "prd_id": 1,
+   "label": "AGATHA"
+  },
+  {
+   "var_id": 71,
+   "prd_id": 3,
+   "label": "ALCAYOTA"
+  },
+  {
+   "var_id": 214,
+   "prd_id": 50,
+   "label": "ALMENDRAS"
+  },
+  {
+   "var_id": 224,
+   "prd_id": 2,
+   "label": "AMARILLA"
+  },
+  {
+   "var_id": 132,
+   "prd_id": 10,
+   "label": "AMARILLO"
+  },
+  {
+   "var_id": 186,
+   "prd_id": 3,
+   "label": "anco industrial"
+  },
+  {
+   "var_id": 66,
+   "prd_id": 16,
+   "label": "ANGOLA"
+  },
+  {
+   "var_id": 211,
+   "prd_id": 50,
+   "label": "ARANDANOS"
+  },
+  {
+   "var_id": 165,
+   "prd_id": 4,
+   "label": "ARAPEY"
+  },
+  {
+   "var_id": 169,
+   "prd_id": 4,
+   "label": "ARAPEY BRASIL"
+  },
+  {
+   "var_id": 3,
+   "prd_id": 1,
+   "label": "ASTERIX"
+  },
+  {
+   "var_id": 12,
+   "prd_id": 8,
+   "label": "ASTERIX"
+  },
+  {
+   "var_id": 13,
+   "prd_id": 9,
+   "label": "ASTERIX"
+  },
+  {
+   "var_id": 27,
+   "prd_id": 1,
+   "label": "ATLANTIC"
+  },
+  {
+   "var_id": 28,
+   "prd_id": 8,
+   "label": "ATLANTIC"
+  },
+  {
+   "var_id": 29,
+   "prd_id": 9,
+   "label": "ATLANTIC"
+  },
+  {
+   "var_id": 124,
+   "prd_id": 1,
+   "label": "ATLANTIC"
+  },
+  {
+   "var_id": 148,
+   "prd_id": 1,
+   "label": "ATLANTIC CEPILL"
+  },
+  {
+   "var_id": 201,
+   "prd_id": 1,
+   "label": "ATLANTIC LAV."
+  },
+  {
+   "var_id": 141,
+   "prd_id": 3,
+   "label": "ATLAS"
+  },
+  {
+   "var_id": 151,
+   "prd_id": 3,
+   "label": "ATLAS DE BRASIL"
+  },
+  {
+   "var_id": 212,
+   "prd_id": 50,
+   "label": "AVELLANAS"
+  },
+  {
+   "var_id": 239,
+   "prd_id": 13,
+   "label": "BATATA"
+  },
+  {
+   "var_id": 291,
+   "prd_id": 17,
+   "label": "BATATON"
+  },
+  {
+   "var_id": 292,
+   "prd_id": 4,
+   "label": "BATATON"
+  },
+  {
+   "var_id": 94,
+   "prd_id": 17,
+   "label": "BATATON"
+  },
+  {
+   "var_id": 40,
+   "prd_id": 2,
+   "label": "BLANCA"
+  },
+  {
+   "var_id": 1,
+   "prd_id": 1,
+   "label": "BLANCA"
+  },
+  {
+   "var_id": 33,
+   "prd_id": 4,
+   "label": "BLANCA"
+  },
+  {
+   "var_id": 78,
+   "prd_id": 18,
+   "label": "Blanco"
+  },
+  {
+   "var_id": 41,
+   "prd_id": 6,
+   "label": "BLANCO"
+  },
+  {
+   "var_id": 42,
+   "prd_id": 7,
+   "label": "BLANCO"
+  },
+  {
+   "var_id": 176,
+   "prd_id": 4,
+   "label": "BONIATO"
+  },
+  {
+   "var_id": 233,
+   "prd_id": 16,
+   "label": "BOUQUET"
+  },
+  {
+   "var_id": 248,
+   "prd_id": 1,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 99,
+   "prd_id": 4,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 100,
+   "prd_id": 9,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 118,
+   "prd_id": 21,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 119,
+   "prd_id": 21,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 109,
+   "prd_id": 21,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 110,
+   "prd_id": 21,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 111,
+   "prd_id": 21,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 112,
+   "prd_id": 21,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 113,
+   "prd_id": 22,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 114,
+   "prd_id": 538,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 147,
+   "prd_id": 3,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 145,
+   "prd_id": 15,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 121,
+   "prd_id": 2,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 126,
+   "prd_id": 12,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 127,
+   "prd_id": 12,
+   "label": "BRASIL"
+  },
+  {
+   "var_id": 245,
+   "prd_id": 43,
+   "label": "BROCOLI"
+  },
+  {
+   "var_id": 194,
+   "prd_id": 2,
+   "label": "BULBO"
+  },
+  {
+   "var_id": 226,
+   "prd_id": 50,
+   "label": "CAJU"
+  },
+  {
+   "var_id": 227,
+   "prd_id": 50,
+   "label": "CAJU SALADO"
+  },
+  {
+   "var_id": 22,
+   "prd_id": 1,
+   "label": "CAMPO"
+  },
+  {
+   "var_id": 23,
+   "prd_id": 8,
+   "label": "CAMPO"
+  },
+  {
+   "var_id": 24,
+   "prd_id": 9,
+   "label": "CAMPO"
+  },
+  {
+   "var_id": 34,
+   "prd_id": 2,
+   "label": "CAMPO"
+  },
+  {
+   "var_id": 35,
+   "prd_id": 6,
+   "label": "CAMPO"
+  },
+  {
+   "var_id": 36,
+   "prd_id": 7,
+   "label": "CAMPO"
+  },
+  {
+   "var_id": 164,
+   "prd_id": 4,
+   "label": "CANADIENSE"
+  },
+  {
+   "var_id": 43,
+   "prd_id": 2,
+   "label": "CAREADA"
+  },
+  {
+   "var_id": 44,
+   "prd_id": 6,
+   "label": "CAREADO"
+  },
+  {
+   "var_id": 45,
+   "prd_id": 7,
+   "label": "CAREADO"
+  },
+  {
+   "var_id": 213,
+   "prd_id": 50,
+   "label": "CASTAÑAS"
+  },
+  {
+   "var_id": 249,
+   "prd_id": 1,
+   "label": "CATAMARCA"
+  },
+  {
+   "var_id": 11,
+   "prd_id": 1,
+   "label": "CEPI."
+  },
+  {
+   "var_id": 163,
+   "prd_id": 1,
+   "label": "CEPI.HOLANDESA"
+  },
+  {
+   "var_id": 179,
+   "prd_id": 9,
+   "label": "CEPILLADO"
+  },
+  {
+   "var_id": 202,
+   "prd_id": 11,
+   "label": "CHICO"
+  },
+  {
+   "var_id": 6,
+   "prd_id": 1,
+   "label": "CHIEFTAIN"
+  },
+  {
+   "var_id": 18,
+   "prd_id": 8,
+   "label": "CHIEFTAIN"
+  },
+  {
+   "var_id": 19,
+   "prd_id": 9,
+   "label": "CHIEFTAIN"
+  },
+  {
+   "var_id": 290,
+   "prd_id": 56,
+   "label": "chilo"
+  },
+  {
+   "var_id": 75,
+   "prd_id": 18,
+   "label": "Chino"
+  },
+  {
+   "var_id": 216,
+   "prd_id": 50,
+   "label": "CHIP BANANA"
+  },
+  {
+   "var_id": 77,
+   "prd_id": 18,
+   "label": "Colorado"
+  },
+  {
+   "var_id": 62,
+   "prd_id": 2,
+   "label": "COMERCIAL"
+  },
+  {
+   "var_id": 63,
+   "prd_id": 6,
+   "label": "COMERCIAL"
+  },
+  {
+   "var_id": 64,
+   "prd_id": 7,
+   "label": "COMERCIAL"
+  },
+  {
+   "var_id": 191,
+   "prd_id": 46,
+   "label": "COMERCIAL"
+  },
+  {
+   "var_id": 264,
+   "prd_id": 2,
+   "label": "COMUN"
+  },
+  {
+   "var_id": 70,
+   "prd_id": 3,
+   "label": "COMUN"
+  },
+  {
+   "var_id": 73,
+   "prd_id": 1,
+   "label": "CONSUMO"
+  },
+  {
+   "var_id": 69,
+   "prd_id": 3,
+   "label": "COQUENA"
+  },
+  {
+   "var_id": 139,
+   "prd_id": 3,
+   "label": "COQUENA DE BRAS"
+  },
+  {
+   "var_id": 140,
+   "prd_id": 3,
+   "label": "COQUENA DE SALT"
+  },
+  {
+   "var_id": 97,
+   "prd_id": 4,
+   "label": "CORDOBA"
+  },
+  {
+   "var_id": 150,
+   "prd_id": 1,
+   "label": "CORDOBA"
+  },
+  {
+   "var_id": 180,
+   "prd_id": 1,
+   "label": "Daifla"
+  },
+  {
+   "var_id": 102,
+   "prd_id": 1,
+   "label": "DAIFLA"
+  },
+  {
+   "var_id": 103,
+   "prd_id": 9,
+   "label": "DAIFLA"
+  },
+  {
+   "var_id": 134,
+   "prd_id": 1,
+   "label": "DAYSI CEPILLADA"
+  },
+  {
+   "var_id": 143,
+   "prd_id": 1,
+   "label": "DAYSI CEPILLADA"
+  },
+  {
+   "var_id": 144,
+   "prd_id": 1,
+   "label": "DAYSI PROCESADA"
+  },
+  {
+   "var_id": 133,
+   "prd_id": 1,
+   "label": "DAYSI PROCESADA"
+  },
+  {
+   "var_id": 14,
+   "prd_id": 8,
+   "label": "DAYSY"
+  },
+  {
+   "var_id": 15,
+   "prd_id": 9,
+   "label": "DAYSY"
+  },
+  {
+   "var_id": 4,
+   "prd_id": 1,
+   "label": "DAYSY"
+  },
+  {
+   "var_id": 247,
+   "prd_id": 15,
+   "label": "DEL SUR"
+  },
+  {
+   "var_id": 52,
+   "prd_id": 2,
+   "label": "DESCARTE"
+  },
+  {
+   "var_id": 53,
+   "prd_id": 6,
+   "label": "DESCARTE"
+  },
+  {
+   "var_id": 54,
+   "prd_id": 7,
+   "label": "DESCARTE"
+  },
+  {
+   "var_id": 7,
+   "prd_id": 1,
+   "label": "DESIRE"
+  },
+  {
+   "var_id": 20,
+   "prd_id": 8,
+   "label": "DESIRE"
+  },
+  {
+   "var_id": 21,
+   "prd_id": 9,
+   "label": "DESIRE"
+  },
+  {
+   "var_id": 271,
+   "prd_id": 1,
+   "label": "DONATA"
+  },
+  {
+   "var_id": 259,
+   "prd_id": 2,
+   "label": "DULCE"
+  },
+  {
+   "var_id": 281,
+   "prd_id": 60,
+   "label": "EUREKA"
+  },
+  {
+   "var_id": 223,
+   "prd_id": 52,
+   "label": "EUROPEO"
+  },
+  {
+   "var_id": 234,
+   "prd_id": 16,
+   "label": "EXOTICO"
+  },
+  {
+   "var_id": 89,
+   "prd_id": 14,
+   "label": "EXTRA"
+  },
+  {
+   "var_id": 136,
+   "prd_id": 4,
+   "label": "FORMOSA"
+  },
+  {
+   "var_id": 162,
+   "prd_id": 3,
+   "label": "FORMOSA"
+  },
+  {
+   "var_id": 236,
+   "prd_id": 1,
+   "label": "HERMOSA"
+  },
+  {
+   "var_id": 189,
+   "prd_id": 13,
+   "label": "HIBRIDA"
+  },
+  {
+   "var_id": 85,
+   "prd_id": 14,
+   "label": "HIBRIDA"
+  },
+  {
+   "var_id": 90,
+   "prd_id": 14,
+   "label": "INDUSTRIAL"
+  },
+  {
+   "var_id": 187,
+   "prd_id": 3,
+   "label": "INDUSTRIAL"
+  },
+  {
+   "var_id": 300,
+   "prd_id": 13,
+   "label": "INDUSTRIAL"
+  },
+  {
+   "var_id": 68,
+   "prd_id": 16,
+   "label": "INGLES"
+  },
+  {
+   "var_id": 17,
+   "prd_id": 9,
+   "label": "INNOV."
+  },
+  {
+   "var_id": 5,
+   "prd_id": 1,
+   "label": "INNOV."
+  },
+  {
+   "var_id": 188,
+   "prd_id": 1,
+   "label": "INNOV. CEPI"
+  },
+  {
+   "var_id": 16,
+   "prd_id": 8,
+   "label": "INNOVATOR"
+  },
+  {
+   "var_id": 129,
+   "prd_id": 1,
+   "label": "INNOVATOR DE CA"
+  },
+  {
+   "var_id": 308,
+   "prd_id": 1,
+   "label": "INVICTUS"
+  },
+  {
+   "var_id": 289,
+   "prd_id": 1,
+   "label": "JONA"
+  },
+  {
+   "var_id": 142,
+   "prd_id": 22,
+   "label": "JUGO"
+  },
+  {
+   "var_id": 8,
+   "prd_id": 1,
+   "label": "JUJUY"
+  },
+  {
+   "var_id": 30,
+   "prd_id": 1,
+   "label": "KENNEBEC"
+  },
+  {
+   "var_id": 31,
+   "prd_id": 8,
+   "label": "KENNEBEC"
+  },
+  {
+   "var_id": 32,
+   "prd_id": 9,
+   "label": "KENNEBEC"
+  },
+  {
+   "var_id": 83,
+   "prd_id": 1,
+   "label": "LAVADA"
+  },
+  {
+   "var_id": 96,
+   "prd_id": 9,
+   "label": "LAVADA"
+  },
+  {
+   "var_id": 273,
+   "prd_id": 1,
+   "label": "LAVADA SABABA"
+  },
+  {
+   "var_id": 274,
+   "prd_id": 1,
+   "label": "LAVADA SAGITA"
+  },
+  {
+   "var_id": 182,
+   "prd_id": 9,
+   "label": "LAVADO"
+  },
+  {
+   "var_id": 91,
+   "prd_id": 8,
+   "label": "LAVADO"
+  },
+  {
+   "var_id": 209,
+   "prd_id": 50,
+   "label": "MANI C/SAL"
+  },
+  {
+   "var_id": 207,
+   "prd_id": 50,
+   "label": "MANI CERVECERO"
+  },
+  {
+   "var_id": 208,
+   "prd_id": 50,
+   "label": "MANI S/SAL"
+  },
+  {
+   "var_id": 203,
+   "prd_id": 11,
+   "label": "MEDIANO"
+  },
+  {
+   "var_id": 222,
+   "prd_id": 52,
+   "label": "MEDITERRANEO"
+  },
+  {
+   "var_id": 204,
+   "prd_id": 1,
+   "label": "MEMPHIS"
+  },
+  {
+   "var_id": 170,
+   "prd_id": 2,
+   "label": "MENDOZA"
+  },
+  {
+   "var_id": 171,
+   "prd_id": 1,
+   "label": "MENDOZA"
+  },
+  {
+   "var_id": 240,
+   "prd_id": 3,
+   "label": "MENDOZA"
+  },
+  {
+   "var_id": 37,
+   "prd_id": 2,
+   "label": "MORADA"
+  },
+  {
+   "var_id": 131,
+   "prd_id": 2,
+   "label": "MORADA DE BRASI"
+  },
+  {
+   "var_id": 38,
+   "prd_id": 6,
+   "label": "MORADO"
+  },
+  {
+   "var_id": 39,
+   "prd_id": 7,
+   "label": "MORADO"
+  },
+  {
+   "var_id": 76,
+   "prd_id": 18,
+   "label": "Morado"
+  },
+  {
+   "var_id": 217,
+   "prd_id": 52,
+   "label": "NATURAL"
+  },
+  {
+   "var_id": 2,
+   "prd_id": 1,
+   "label": "NEGRA"
+  },
+  {
+   "var_id": 135,
+   "prd_id": 14,
+   "label": "NEUTRAL"
+  },
+  {
+   "var_id": 206,
+   "prd_id": 1,
+   "label": "NOHA"
+  },
+  {
+   "var_id": 210,
+   "prd_id": 50,
+   "label": "NUECES"
+  },
+  {
+   "var_id": 161,
+   "prd_id": 9,
+   "label": "PAPIN"
+  },
+  {
+   "var_id": 269,
+   "prd_id": 1,
+   "label": "PAPIN"
+  },
+  {
+   "var_id": 215,
+   "prd_id": 50,
+   "label": "PASAS MOROCHAS"
+  },
+  {
+   "var_id": 299,
+   "prd_id": 4,
+   "label": "PATA DE RANA"
+  },
+  {
+   "var_id": 220,
+   "prd_id": 52,
+   "label": "PATAGONICO"
+  },
+  {
+   "var_id": 58,
+   "prd_id": 2,
+   "label": "PELADA"
+  },
+  {
+   "var_id": 59,
+   "prd_id": 6,
+   "label": "PELADO"
+  },
+  {
+   "var_id": 60,
+   "prd_id": 7,
+   "label": "PELADO"
+  },
+  {
+   "var_id": 61,
+   "prd_id": 7,
+   "label": "PELADO"
+  },
+  {
+   "var_id": 95,
+   "prd_id": 18,
+   "label": "PERA"
+  },
+  {
+   "var_id": 238,
+   "prd_id": 18,
+   "label": "PERA"
+  },
+  {
+   "var_id": 117,
+   "prd_id": 21,
+   "label": "PERITA"
+  },
+  {
+   "var_id": 125,
+   "prd_id": 21,
+   "label": "PERITA"
+  },
+  {
+   "var_id": 225,
+   "prd_id": 50,
+   "label": "PISTACHOS"
+  },
+  {
+   "var_id": 178,
+   "prd_id": 11,
+   "label": "PLANO"
+  },
+  {
+   "var_id": 67,
+   "prd_id": 16,
+   "label": "PLOMO"
+  },
+  {
+   "var_id": 79,
+   "prd_id": 3,
+   "label": "PLUTO"
+  },
+  {
+   "var_id": 159,
+   "prd_id": 3,
+   "label": "PLUTO BRASIL"
+  },
+  {
+   "var_id": 277,
+   "prd_id": 18,
+   "label": "PRIMERA"
+  },
+  {
+   "var_id": 232,
+   "prd_id": 16,
+   "label": "PRINCESA"
+  },
+  {
+   "var_id": 10,
+   "prd_id": 1,
+   "label": "PROCESADA"
+  },
+  {
+   "var_id": 250,
+   "prd_id": 1,
+   "label": "RALLIDA"
+  },
+  {
+   "var_id": 192,
+   "prd_id": 328,
+   "label": "rayado"
+  },
+  {
+   "var_id": 193,
+   "prd_id": 328,
+   "label": "RAYADO"
+  },
+  {
+   "var_id": 101,
+   "prd_id": 3,
+   "label": "RAYADO"
+  },
+  {
+   "var_id": 128,
+   "prd_id": 1,
+   "label": "REDONDA"
+  },
+  {
+   "var_id": 235,
+   "prd_id": 12,
+   "label": "REDONDA CHICA"
+  },
+  {
+   "var_id": 116,
+   "prd_id": 21,
+   "label": "REDONDO"
+  },
+  {
+   "var_id": 258,
+   "prd_id": 4,
+   "label": "REMOLACHA"
+  },
+  {
+   "var_id": 231,
+   "prd_id": 13,
+   "label": "REMOLACHON"
+  },
+  {
+   "var_id": 298,
+   "prd_id": 11,
+   "label": "RIÑON"
+  },
+  {
+   "var_id": 122,
+   "prd_id": 10,
+   "label": "ROCIO DE MIEL"
+  },
+  {
+   "var_id": 107,
+   "prd_id": 1,
+   "label": "RODEO"
+  },
+  {
+   "var_id": 197,
+   "prd_id": 63,
+   "label": "RODEO"
+  },
+  {
+   "var_id": 198,
+   "prd_id": 69,
+   "label": "RODEO"
+  },
+  {
+   "var_id": 199,
+   "prd_id": 63,
+   "label": "RODEO"
+  },
+  {
+   "var_id": 200,
+   "prd_id": 9,
+   "label": "RODEO"
+  },
+  {
+   "var_id": 260,
+   "prd_id": 1,
+   "label": "ROJO"
+  },
+  {
+   "var_id": 261,
+   "prd_id": 9,
+   "label": "ROJO"
+  },
+  {
+   "var_id": 166,
+   "prd_id": 1,
+   "label": "ROSARIO"
+  },
+  {
+   "var_id": 219,
+   "prd_id": 52,
+   "label": "S/MANI"
+  },
+  {
+   "var_id": 221,
+   "prd_id": 52,
+   "label": "S/PASAS"
+  },
+  {
+   "var_id": 272,
+   "prd_id": 1,
+   "label": "SABADA"
+  },
+  {
+   "var_id": 88,
+   "prd_id": 9,
+   "label": "SAJITA"
+  },
+  {
+   "var_id": 9,
+   "prd_id": 1,
+   "label": "SAJITA"
+  },
+  {
+   "var_id": 152,
+   "prd_id": 1,
+   "label": "SAJITA CEPILLAD"
+  },
+  {
+   "var_id": 278,
+   "prd_id": 2,
+   "label": "SALTA"
+  },
+  {
+   "var_id": 160,
+   "prd_id": 15,
+   "label": "SALTA"
+  },
+  {
+   "var_id": 156,
+   "prd_id": 2,
+   "label": "SAN JUAN"
+  },
+  {
+   "var_id": 157,
+   "prd_id": 6,
+   "label": "SAN JUAN"
+  },
+  {
+   "var_id": 158,
+   "prd_id": 7,
+   "label": "SAN JUAN"
+  },
+  {
+   "var_id": 153,
+   "prd_id": 4,
+   "label": "SAN PEDRO"
+  },
+  {
+   "var_id": 154,
+   "prd_id": 17,
+   "label": "SAN PEDRO"
+  },
+  {
+   "var_id": 155,
+   "prd_id": 5,
+   "label": "SAN PEDRO"
+  },
+  {
+   "var_id": 137,
+   "prd_id": 4,
+   "label": "SAN PEDRO"
+  },
+  {
+   "var_id": 138,
+   "prd_id": 2,
+   "label": "SANTIAGO"
+  },
+  {
+   "var_id": 241,
+   "prd_id": 2,
+   "label": "SANTIAGO"
+  },
+  {
+   "var_id": 195,
+   "prd_id": 36,
+   "label": "seleccion"
+  },
+  {
+   "var_id": 196,
+   "prd_id": 37,
+   "label": "SELECCION"
+  },
+  {
+   "var_id": 267,
+   "prd_id": 1,
+   "label": "SEMILLO DAYFLA"
+  },
+  {
+   "var_id": 268,
+   "prd_id": 1,
+   "label": "SEMILLON"
+  },
+  {
+   "var_id": 229,
+   "prd_id": 1,
+   "label": "SEMILLON AGATHA"
+  },
+  {
+   "var_id": 105,
+   "prd_id": 1,
+   "label": "SEMILLON ASTERI"
+  },
+  {
+   "var_id": 108,
+   "prd_id": 1,
+   "label": "SEMILLON DAYSI"
+  },
+  {
+   "var_id": 181,
+   "prd_id": 1,
+   "label": "SEMILLON DAYSI"
+  },
+  {
+   "var_id": 106,
+   "prd_id": 1,
+   "label": "SEMILLON INNOVA"
+  },
+  {
+   "var_id": 104,
+   "prd_id": 1,
+   "label": "SEMILLON LAVADO"
+  },
+  {
+   "var_id": 55,
+   "prd_id": 2,
+   "label": "SINTETICA"
+  },
+  {
+   "var_id": 56,
+   "prd_id": 6,
+   "label": "SINTETICO"
+  },
+  {
+   "var_id": 57,
+   "prd_id": 7,
+   "label": "SINTETICO"
+  },
+  {
+   "var_id": 82,
+   "prd_id": 1,
+   "label": "SPUNTA"
+  },
+  {
+   "var_id": 183,
+   "prd_id": 1,
+   "label": "SPUNTA BALCARCE"
+  },
+  {
+   "var_id": 242,
+   "prd_id": 9,
+   "label": "SUN-RED"
+  },
+  {
+   "var_id": 237,
+   "prd_id": 1,
+   "label": "SUN-RED"
+  },
+  {
+   "var_id": 276,
+   "prd_id": 2,
+   "label": "TEMPRANA"
+  },
+  {
+   "var_id": 46,
+   "prd_id": 2,
+   "label": "TORRENTINA"
+  },
+  {
+   "var_id": 47,
+   "prd_id": 6,
+   "label": "TORRENTINO"
+  },
+  {
+   "var_id": 48,
+   "prd_id": 7,
+   "label": "TORRENTINO"
+  },
+  {
+   "var_id": 263,
+   "prd_id": 2,
+   "label": "TRATADA"
+  },
+  {
+   "var_id": 218,
+   "prd_id": 52,
+   "label": "TROPICAL"
+  },
+  {
+   "var_id": 149,
+   "prd_id": 1,
+   "label": "TUCUMAN"
+  },
+  {
+   "var_id": 280,
+   "prd_id": 60,
+   "label": "TUCUMANO"
+  },
+  {
+   "var_id": 230,
+   "prd_id": 800,
+   "label": "UVA"
+  },
+  {
+   "var_id": 49,
+   "prd_id": 2,
+   "label": "VALEN."
+  },
+  {
+   "var_id": 50,
+   "prd_id": 6,
+   "label": "VALENCIANITA"
+  },
+  {
+   "var_id": 51,
+   "prd_id": 7,
+   "label": "VALENCIANITA"
+  },
+  {
+   "var_id": 246,
+   "prd_id": 55,
+   "label": "VERDE"
+  },
+  {
+   "var_id": 130,
+   "prd_id": 2,
+   "label": "VERDEO"
+  },
+  {
+   "var_id": 172,
+   "prd_id": 1,
+   "label": "VILLA CAMPO"
+  },
+  {
+   "var_id": 98,
+   "prd_id": 1,
+   "label": "VILLA CEPILLADA"
+  },
+  {
+   "var_id": 87,
+   "prd_id": 1,
+   "label": "VILLA PROCESADA"
+  },
+  {
+   "var_id": 25,
+   "prd_id": 8,
+   "label": "VOYAGE"
+  },
+  {
+   "var_id": 26,
+   "prd_id": 9,
+   "label": "VOYAGE"
+  },
+  {
+   "var_id": 279,
+   "prd_id": 71,
+   "label": "Williams"
+  },
+  {
+   "var_id": 262,
+   "prd_id": 3,
+   "label": "ZAPALLO"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+[
+ {
+  "id": 5,
+  "identificador": "Resumen de Venta",
+  "consulta": "(demo)",
+  "configuracion_informe": "Resumen de Venta",
+  "suma": "promedio,total",
+  "formato_moneda": "promedio,total",
+  "categoria": "Resumenes"
+ },
+ {
+  "id": 2,
+  "identificador": "Stock del puesto",
+  "consulta": "(demo)",
+  "configuracion_informe": "stock puesto",
+  "suma": null,
+  "formato_moneda": null,
+  "categoria": "Vendedores"
+ }
+]

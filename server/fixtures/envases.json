@@ -1,0 +1,1145 @@
+{
+ "envases": [
+  {
+   "Id_Envase": 101,
+   "Detalle": "10 KG",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 126,
+   "Detalle": "5 CERROS",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 164,
+   "Detalle": "5CERROS",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 111,
+   "Detalle": "ADRIAN",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 8,
+   "Detalle": "AGROAMARILLA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 9,
+   "Detalle": "AGROAZUL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 10,
+   "Detalle": "AGROBLANCA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 75,
+   "Detalle": "AGROBORDO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 82,
+   "Detalle": "AGROCANDE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 105,
+   "Detalle": "AGROCANDELARIA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 11,
+   "Detalle": "AGROGRIS",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 232,
+   "Detalle": "AGROMADERA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 148,
+   "Detalle": "AGROMARRON",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 86,
+   "Detalle": "AGRONARANJA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 193,
+   "Detalle": "AGRONATURAL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 13,
+   "Detalle": "AGRONEGRA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 108,
+   "Detalle": "AGROROJA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 7,
+   "Detalle": "AGROTRANSPARENTE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 12,
+   "Detalle": "AGROVERDE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 6,
+   "Detalle": "AGROVERDE TUVO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 203,
+   "Detalle": "AGROVIOLETA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 73,
+   "Detalle": "AGUSTIN",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 74,
+   "Detalle": "AGUSTIN 2 DA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 91,
+   "Detalle": "AGUSTIN C/B",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 189,
+   "Detalle": "ALACRAN",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 161,
+   "Detalle": "ALMAR",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 213,
+   "Detalle": "AMANECER",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 77,
+   "Detalle": "ARCO DE ORO",
+   "Activo": 1,
+   "Valor": 3000.0
+  },
+  {
+   "Id_Envase": 214,
+   "Detalle": "ARGENTINA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 83,
+   "Detalle": "ATADO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 162,
+   "Detalle": "BALCARCE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 197,
+   "Detalle": "BANDEJERO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 215,
+   "Detalle": "BOCADURA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 1,
+   "Detalle": "BOLSA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 127,
+   "Detalle": "BOLSA \"29\"",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 146,
+   "Detalle": "BOLSA AGRO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 120,
+   "Detalle": "BOLSA TRANSPARENTE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 128,
+   "Detalle": "BOLSÓN",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 117,
+   "Detalle": "BOTELLA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 198,
+   "Detalle": "BROAE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 23,
+   "Detalle": "C/B",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 39,
+   "Detalle": "CAJA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 204,
+   "Detalle": "CAJA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 40,
+   "Detalle": "CAJON",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 118,
+   "Detalle": "CAMILA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 68,
+   "Detalle": "CANASTITA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 114,
+   "Detalle": "CANDE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 192,
+   "Detalle": "CARACHA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 89,
+   "Detalle": "CARACOL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 76,
+   "Detalle": "COLA",
+   "Activo": 1,
+   "Valor": 3000.0
+  },
+  {
+   "Id_Envase": 137,
+   "Detalle": "COMERCIAL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 221,
+   "Detalle": "COMUN",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 160,
+   "Detalle": "CORDOBA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 41,
+   "Detalle": "CRUZADO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 32,
+   "Detalle": "CUBITO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 210,
+   "Detalle": "DESCARTE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 129,
+   "Detalle": "DON DANIEL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 87,
+   "Detalle": "DON EDUARDO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 100,
+   "Detalle": "DON HUMBERTO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 194,
+   "Detalle": "DON JORGE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 145,
+   "Detalle": "DON JOSE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 85,
+   "Detalle": "DON JUAN",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 166,
+   "Detalle": "DON LUCAS",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 144,
+   "Detalle": "DON LUIS",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 71,
+   "Detalle": "DON MANUEL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 121,
+   "Detalle": "DON MIGUEL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 147,
+   "Detalle": "DON PEPE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 186,
+   "Detalle": "DON RAMON",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 217,
+   "Detalle": "DON SEGUNDO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 150,
+   "Detalle": "EL GALLO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 69,
+   "Detalle": "EL MOLINO AMARILLO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 70,
+   "Detalle": "EL MOLINO NARANJA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 67,
+   "Detalle": "EL PARQUE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 169,
+   "Detalle": "EL SURCO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 187,
+   "Detalle": "EL TREBOL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 31,
+   "Detalle": "ELEGIDA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 139,
+   "Detalle": "ELEGIDO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 78,
+   "Detalle": "EMBALADO",
+   "Activo": 1,
+   "Valor": 3000.0
+  },
+  {
+   "Id_Envase": 152,
+   "Detalle": "EXPO AMARILLA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 153,
+   "Detalle": "EXPO AZUL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 112,
+   "Detalle": "EXPO BLANCA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 123,
+   "Detalle": "EXPO CAMPO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 107,
+   "Detalle": "EXPO NATURAL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 133,
+   "Detalle": "EXPO NATURAL TRANSPARENTE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 104,
+   "Detalle": "EXPO.TRANSPARENTE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 191,
+   "Detalle": "EXPOAGRO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 220,
+   "Detalle": "EXPOAZUL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 224,
+   "Detalle": "EXPOAZUL R.",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 218,
+   "Detalle": "EXPOCELESTE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 225,
+   "Detalle": "EXPOCELESTE R.",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 155,
+   "Detalle": "EXPONARANJA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 226,
+   "Detalle": "EXPONARANJA R.",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 90,
+   "Detalle": "EXPOPAPA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 106,
+   "Detalle": "EXPOROJA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 154,
+   "Detalle": "EXPOVERDE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 223,
+   "Detalle": "EXPOVERDE R.",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 227,
+   "Detalle": "EXPOVIOLETA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 5,
+   "Detalle": "FAJA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 182,
+   "Detalle": "FAJA AGRO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 151,
+   "Detalle": "FAJA ARGENTINA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 159,
+   "Detalle": "FAJA AZUL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 124,
+   "Detalle": "FAJA BANDERITA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 132,
+   "Detalle": "FAJA D.ROBERTO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 228,
+   "Detalle": "FAJA GORDON",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 135,
+   "Detalle": "FAJA GUADALUPE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 158,
+   "Detalle": "FAJA VERDE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 165,
+   "Detalle": "GARLIC",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 172,
+   "Detalle": "GRANDE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 88,
+   "Detalle": "GRANEL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 80,
+   "Detalle": "HOLANDESA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 222,
+   "Detalle": "INTERMEDIA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 199,
+   "Detalle": "JAFALI",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 168,
+   "Detalle": "KINGE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 110,
+   "Detalle": "LA CALEFONA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 134,
+   "Detalle": "LA LOMITA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 130,
+   "Detalle": "LA MEJOR",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 142,
+   "Detalle": "LOS MELLIZOS",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 94,
+   "Detalle": "LOS PRIMOS",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 229,
+   "Detalle": "MARA VERDE VERRANO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 230,
+   "Detalle": "MARA VERDE VIEJA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 176,
+   "Detalle": "MARAV VERDE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 175,
+   "Detalle": "MARAV. BLANCA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 177,
+   "Detalle": "MARAV. ROJA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 180,
+   "Detalle": "MARAVI. AMARI",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 179,
+   "Detalle": "MARAVI. NARANJ",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 178,
+   "Detalle": "MARAVI. VERDE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 95,
+   "Detalle": "MARAVILLA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 211,
+   "Detalle": "MARAVILLA AZUL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 231,
+   "Detalle": "MARAVILLA CREMA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 206,
+   "Detalle": "MARAVILLA OCRE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 212,
+   "Detalle": "MARAVILLA VIOLETA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 173,
+   "Detalle": "MEDIANO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 109,
+   "Detalle": "MELCHOR",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 157,
+   "Detalle": "MOLINO AMARRILA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 156,
+   "Detalle": "molino amarrilla",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 3,
+   "Detalle": "MONO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 181,
+   "Detalle": "NARANJ INDUBOL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 202,
+   "Detalle": "NATIVA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 59,
+   "Detalle": "ORG. AMARILLA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 93,
+   "Detalle": "ORG. MARRON",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 60,
+   "Detalle": "ORG. NARJ.",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 61,
+   "Detalle": "ORG.VERDE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 62,
+   "Detalle": "PLASTICO AZUL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 102,
+   "Detalle": "PLASTICO BLANCA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 119,
+   "Detalle": "PLASTICO BLANCA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 125,
+   "Detalle": "PLASTICO ROJA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 63,
+   "Detalle": "PLASTICO ROSA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 81,
+   "Detalle": "PLASTICO TRANSPARENTE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 188,
+   "Detalle": "OTAMENDI",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 116,
+   "Detalle": "PACK X 12",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 115,
+   "Detalle": "PACK X 6",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 56,
+   "Detalle": "PAPEL AMARILLO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 57,
+   "Detalle": "PAPEL BORDO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 103,
+   "Detalle": "PAQUETE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 64,
+   "Detalle": "CAJON MADERA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 65,
+   "Detalle": "CAJON MADERA ROSA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 190,
+   "Detalle": "PEQUE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 207,
+   "Detalle": "PICKLER",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 79,
+   "Detalle": "PLASTICO",
+   "Activo": 1,
+   "Valor": 3000.0
+  },
+  {
+   "Id_Envase": 149,
+   "Detalle": "POLI.ORG.NJA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 58,
+   "Detalle": "POLIPAPEL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 209,
+   "Detalle": "PREMIUN",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 131,
+   "Detalle": "PRINCESA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 171,
+   "Detalle": "R/B",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 4,
+   "Detalle": "RAFIA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 200,
+   "Detalle": "RAFIA BAHIA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 2,
+   "Detalle": "REJILLA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 98,
+   "Detalle": "REJILLA AZUL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 99,
+   "Detalle": "REJILLA BLANCA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 143,
+   "Detalle": "REJILLA C/F EPP",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 122,
+   "Detalle": "REJILLA C/FAJA GRIS",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 113,
+   "Detalle": "REJILLA C/FAJA VERDE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 219,
+   "Detalle": "REVELDE",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 216,
+   "Detalle": "RIESTRA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 24,
+   "Detalle": "S/B",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 174,
+   "Detalle": "S/F",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 183,
+   "Detalle": "SACHET",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 184,
+   "Detalle": "SACHET X10",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 185,
+   "Detalle": "SACHET X20",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 140,
+   "Detalle": "SAN MIGUEL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 201,
+   "Detalle": "SARITA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 136,
+   "Detalle": "SEGUNDA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 205,
+   "Detalle": "SEGUNDA VIOLETA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 96,
+   "Detalle": "TACO",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 141,
+   "Detalle": "TOCADA",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 163,
+   "Detalle": "TORMENTON",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 97,
+   "Detalle": "UNIDAD",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 42,
+   "Detalle": "UNIDAD",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 170,
+   "Detalle": "VERDE INDUBOL",
+   "Activo": 1,
+   "Valor": 1500.0
+  },
+  {
+   "Id_Envase": 84,
+   "Detalle": "VILLA DOLORES",
+   "Activo": 1,
+   "Valor": 1500.0
+  }
+ ],
+ "total": 190
+}

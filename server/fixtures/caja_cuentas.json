@@ -1,0 +1,86 @@
+[
+ {
+  "cue_id": 93,
+  "cue_nombre": "Alivio de caja",
+  "Tipo": 9,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 97,
+  "cue_nombre": "Arqueo de caja",
+  "Tipo": 9,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 170,
+  "cue_nombre": "Diferencia de Caja",
+  "Tipo": 5,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 888,
+  "cue_nombre": "Ingreso Caja Anterior",
+  "Tipo": 4,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 107,
+  "cue_nombre": "Ingreso por vacios",
+  "Tipo": 8,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 104,
+  "cue_nombre": "Ingreso x Cobranzas",
+  "Tipo": 4,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 60,
+  "cue_nombre": "Ingresos por venta",
+  "Tipo": 8,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 21,
+  "cue_nombre": "iva ventas",
+  "Tipo": 8,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 372,
+  "cue_nombre": "MDO PAGO",
+  "Tipo": 9,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 0,
+  "cue_nombre": "Sin Cuenta",
+  "Tipo": 8,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 373,
+  "cue_nombre": "Transferencias",
+  "Tipo": 9,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 110,
+  "cue_nombre": "Vacios pagados",
+  "Tipo": 9,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 218,
+  "cue_nombre": "Varios",
+  "Tipo": 5,
+  "MontoMax": 0.0
+ },
+ {
+  "cue_id": 103,
+  "cue_nombre": "Ventas en Cta Cte",
+  "Tipo": 9,
+  "MontoMax": 0.0
+ }
+]

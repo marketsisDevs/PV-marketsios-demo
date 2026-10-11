@@ -1,0 +1,7 @@
+# Respuestas crudas con datos reales (solo para regenerar fixtures)
+_raw/
+
+server/.venv/
+server/*.sqlite3
+__pycache__/
+*.pyc
