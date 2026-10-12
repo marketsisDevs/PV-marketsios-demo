@@ -1022,7 +1022,7 @@ def pairing_payload(request: Request) -> str:
 @app.get("/qr.svg", include_in_schema=False)
 def qr_svg(request: Request):
     buf = io.BytesIO()
-    segno.make(pairing_payload(request), error="m").save(buf, kind="svg", scale=8, border=2, dark="#0b1f33")
+    segno.make(pairing_payload(request), error="m").save(buf, kind="svg", scale=8, border=2, dark="#0F172A")
     return Response(buf.getvalue(), media_type="image/svg+xml", headers={"Cache-Control": "no-store"})
 
 
@@ -1031,6 +1031,13 @@ def qr_png(request: Request):
     buf = io.BytesIO()
     segno.make(pairing_payload(request), error="m").save(buf, kind="png", scale=10, border=2)
     return Response(buf.getvalue(), media_type="image/png", headers={"Cache-Control": "no-store"})
+
+
+@app.get("/logo.png", include_in_schema=False)
+@app.get("/favicon.ico", include_in_schema=False)
+def logo():
+    return Response((store.HERE / "static" / "logo.png").read_bytes(), media_type="image/png",
+                    headers={"Cache-Control": "public, max-age=86400"})
 
 
 @app.get("/", response_class=HTMLResponse, include_in_schema=False)
