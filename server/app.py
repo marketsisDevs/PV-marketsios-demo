@@ -28,6 +28,8 @@ from store import (
 
 VERSION = os.getenv("DEMO_VERSION", "1.0.4")
 COMPANY = os.getenv("DEMO_COMPANY", "Marketsis Demo")
+CONTACT_EMAIL = os.getenv("DEMO_CONTACT_EMAIL", "mgonzalez@marketsis.com.ar")
+PRIVACY_UPDATED = "2026-10-13"
 SECRET = (os.getenv("DEMO_SECRET") or "marketsis-demo-local").encode()
 TOKEN_TTL = 7 * 24 * 3600
 
@@ -1038,6 +1040,21 @@ def qr_png(request: Request):
 def logo():
     return Response((store.HERE / "static" / "logo.png").read_bytes(), media_type="image/png",
                     headers={"Cache-Control": "public, max-age=86400"})
+
+
+@app.get("/brand.css", include_in_schema=False)
+def brand_css():
+    return Response((store.HERE / "static" / "brand.css").read_bytes(), media_type="text/css",
+                    headers={"Cache-Control": "public, max-age=3600"})
+
+
+@app.get("/privacy", response_class=HTMLResponse, include_in_schema=False)
+@app.get("/privacidad", response_class=HTMLResponse, include_in_schema=False)
+def privacy():
+    html = (store.HERE / "static" / "privacy.html").read_text(encoding="utf-8")
+    return html.replace("{{CONTACT}}", CONTACT_EMAIL).replace("{{UPDATED}}", PRIVACY_UPDATED).replace(
+        "{{YEAR}}", str(datetime.now().year)
+    )
 
 
 @app.get("/", response_class=HTMLResponse, include_in_schema=False)
