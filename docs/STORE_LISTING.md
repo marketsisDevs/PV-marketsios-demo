@@ -6,6 +6,7 @@ Los límites de caracteres de cada campo están indicados entre corchetes.
 | Dato | Valor |
 |------|-------|
 | Política de privacidad | https://marketsis-pv-demo.onrender.com/privacy |
+| Términos del servicio | https://marketsis-pv-demo.onrender.com/terms |
 | Servidor demo (QR) | https://marketsis-pv-demo.onrender.com |
 | Usuario demo | `demo` / `demo1234` |
 | Sitio / soporte | https://www.marketsis.com.ar/ |
@@ -99,6 +100,7 @@ Credenciales en los campos dedicados: usuario `demo`, contraseña `demo1234`.
 | Sección | Respuesta |
 |---------|-----------|
 | Privacy policy | https://marketsis-pv-demo.onrender.com/privacy |
+| Terms of Service (estado operador UE) | https://marketsis-pv-demo.onrender.com/terms |
 | Ads | No contiene anuncios |
 | App access | Restringida → instrucciones y credenciales de la sección 2 |
 | Content rating (IARC) | Categoría *Utility, Productivity, Communication or other*; todo *No* → Apto para todos |

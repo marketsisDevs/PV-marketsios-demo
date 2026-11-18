@@ -30,6 +30,7 @@ VERSION = os.getenv("DEMO_VERSION", "1.0.4")
 COMPANY = os.getenv("DEMO_COMPANY", "Marketsis Demo")
 CONTACT_EMAIL = os.getenv("DEMO_CONTACT_EMAIL", "mgonzalez@marketsis.com.ar")
 PRIVACY_UPDATED = "2026-10-13"
+TERMS_UPDATED = "2026-11-18"
 SECRET = (os.getenv("DEMO_SECRET") or "marketsis-demo-local").encode()
 TOKEN_TTL = 7 * 24 * 3600
 
@@ -246,7 +247,8 @@ def tickets_permissions():
 
 @app.get("/api/comandas/config")
 def comandas_config():
-    return {"prom_limit": 20.0}
+    # Paridad con PV Back get_comandas_config() / config.ini [COMANDAS]
+    return {"prom_limit": 20.0, "ultimo_precio": False}
 
 
 @app.get("/api/comandas/obtener_partidas")
@@ -1053,6 +1055,15 @@ def brand_css():
 def privacy():
     html = (store.HERE / "static" / "privacy.html").read_text(encoding="utf-8")
     return html.replace("{{CONTACT}}", CONTACT_EMAIL).replace("{{UPDATED}}", PRIVACY_UPDATED).replace(
+        "{{YEAR}}", str(datetime.now().year)
+    )
+
+
+@app.get("/terms", response_class=HTMLResponse, include_in_schema=False)
+@app.get("/terminos", response_class=HTMLResponse, include_in_schema=False)
+def terms():
+    html = (store.HERE / "static" / "terms.html").read_text(encoding="utf-8")
+    return html.replace("{{CONTACT}}", CONTACT_EMAIL).replace("{{UPDATED}}", TERMS_UPDATED).replace(
         "{{YEAR}}", str(datetime.now().year)
     )
 
