@@ -1,11 +1,12 @@
-# Demo para la revisión de App Store
+# Demo para la revisión de App Store / Play Store
 
-Servidor de demostración que imita al backend del PV para que el revisor de Apple pueda
+Servidor de demostración que imita al backend del PV para que el revisor pueda
 usar la app sin una PC local ni SQL Server. Corre gratis en Render.
 
-- `server/`: API de demo (FastAPI y SQLite) y página con el QR de emparejamiento en `/`.
+- `server/`: API de demo (FastAPI y SQLite), QR de emparejamiento en `/`, `/privacy` y `/terms`.
 - `server/fixtures/`: datos de ejemplo. Productos, precios, envases y formas de pago son reales.
   Clientes, proveedores, vendedores, usuarios, cuentas y puestos son inventados.
+- `docs/`: páginas legales estáticas (GitHub Pages) + `STORE_LISTING.md` (textos de ficha).
 - `tools/`: scripts para regenerar los fixtures desde la base local.
 
 Cubre el flujo de la demo: login, nueva comanda, envío, cobro (pedido o factura), registro
@@ -13,6 +14,21 @@ y consulta de vacíos, y los listados "Resumen de Venta" (tabla) y "Stock del pu
 El resto de las pantallas responde vacío. No imprime, no sincroniza y no usa Auth v2.
 
 Los datos se reinician cada día (hora de Argentina) y cada vez que Render reinicia el servicio.
+
+## URLs públicas (tiendas)
+
+| Uso | URL |
+|-----|-----|
+| **Política de privacidad (Play / App Store)** | https://marketsisdevs.github.io/PV-marketsios-demo/privacy.html |
+| **Términos del servicio** | https://marketsisdevs.github.io/PV-marketsios-demo/terms.html |
+| Demo + QR de emparejamiento | https://marketsis-pv-demo.onrender.com |
+| Privacidad en Render (legado; puede dormir) | https://marketsis-pv-demo.onrender.com/privacy |
+| Términos en Render (legado; puede dormir) | https://marketsis-pv-demo.onrender.com/terms |
+| Textos listos para pegar | [`docs/STORE_LISTING.md`](docs/STORE_LISTING.md) |
+
+**Play Console:** declarar solo las URLs de **GitHub Pages**. Google rechazó la de Render
+(*Privacy policy is invalid*) porque el free tier se duerme. El sitio Pages se sirve desde
+`docs/` en `main` (repo público `marketsisDevs/PV-marketsios-demo`).
 
 ## Usuarios
 
