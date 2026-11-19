@@ -5,8 +5,9 @@ Los límites de caracteres de cada campo están indicados entre corchetes.
 
 | Dato | Valor |
 |------|-------|
-| Política de privacidad | https://marketsis-pv-demo.onrender.com/privacy |
-| Términos del servicio | https://marketsis-pv-demo.onrender.com/terms |
+| Política de privacidad | https://marketsisdevs.github.io/PV-marketsios-demo/privacy.html |
+| Términos del servicio | https://marketsisdevs.github.io/PV-marketsios-demo/terms.html |
+| (legado Render; puede dormir) | https://marketsis-pv-demo.onrender.com/privacy |
 | Servidor demo (QR) | https://marketsis-pv-demo.onrender.com |
 | Usuario demo | `demo` / `demo1234` |
 | Sitio / soporte | https://www.marketsis.com.ar/ |
@@ -91,7 +92,7 @@ Credenciales en los campos dedicados: usuario `demo`, contraseña `demo1234`.
 - **Age rating:** responder *None/No* a todo → **4+**.
 - **Export compliance:** ya declarado en `Info.plist` (`ITSAppUsesNonExemptEncryption = NO`).
 - **Content rights:** no contiene contenido de terceros.
-- **Support URL:** https://www.marketsis.com.ar/ · **Privacy Policy URL:** https://marketsis-pv-demo.onrender.com/privacy
+- **Support URL:** https://www.marketsis.com.ar/ · **Privacy Policy URL:** https://marketsisdevs.github.io/PV-marketsios-demo/privacy.html
 
 ---
 
@@ -99,8 +100,8 @@ Credenciales en los campos dedicados: usuario `demo`, contraseña `demo1234`.
 
 | Sección | Respuesta |
 |---------|-----------|
-| Privacy policy | https://marketsis-pv-demo.onrender.com/privacy |
-| Terms of Service (estado operador UE) | https://marketsis-pv-demo.onrender.com/terms |
+| Privacy policy | https://marketsisdevs.github.io/PV-marketsios-demo/privacy.html |
+| Terms of Service (estado operador UE) | https://marketsisdevs.github.io/PV-marketsios-demo/terms.html |
 | Ads | No contiene anuncios |
 | App access | Restringida → instrucciones y credenciales de la sección 2 |
 | Content rating (IARC) | Categoría *Utility, Productivity, Communication or other*; todo *No* → Apto para todos |

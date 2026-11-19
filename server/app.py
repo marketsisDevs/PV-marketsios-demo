@@ -29,8 +29,17 @@ from store import (
 VERSION = os.getenv("DEMO_VERSION", "1.0.4")
 COMPANY = os.getenv("DEMO_COMPANY", "Marketsis Demo")
 CONTACT_EMAIL = os.getenv("DEMO_CONTACT_EMAIL", "mgonzalez@marketsis.com.ar")
-PRIVACY_UPDATED = "2026-10-13"
-TERMS_UPDATED = "2026-11-18"
+PRIVACY_UPDATED = "2026-11-19"
+TERMS_UPDATED = "2026-11-19"
+# URL estable para Play/App Store (GitHub Pages; no depende del sleep de Render free).
+LEGAL_PRIVACY_URL = os.getenv(
+    "LEGAL_PRIVACY_URL",
+    "https://marketsisdevs.github.io/PV-marketsios-demo/privacy.html",
+)
+LEGAL_TERMS_URL = os.getenv(
+    "LEGAL_TERMS_URL",
+    "https://marketsisdevs.github.io/PV-marketsios-demo/terms.html",
+)
 SECRET = (os.getenv("DEMO_SECRET") or "marketsis-demo-local").encode()
 TOKEN_TTL = 7 * 24 * 3600
 
@@ -1054,8 +1063,11 @@ def brand_css():
 @app.get("/privacidad", response_class=HTMLResponse, include_in_schema=False)
 def privacy():
     html = (store.HERE / "static" / "privacy.html").read_text(encoding="utf-8")
-    return html.replace("{{CONTACT}}", CONTACT_EMAIL).replace("{{UPDATED}}", PRIVACY_UPDATED).replace(
-        "{{YEAR}}", str(datetime.now().year)
+    return (
+        html.replace("{{CONTACT}}", CONTACT_EMAIL)
+        .replace("{{UPDATED}}", PRIVACY_UPDATED)
+        .replace("{{YEAR}}", str(datetime.now().year))
+        .replace("{{CANONICAL_PRIVACY}}", LEGAL_PRIVACY_URL)
     )
 
 
@@ -1063,8 +1075,11 @@ def privacy():
 @app.get("/terminos", response_class=HTMLResponse, include_in_schema=False)
 def terms():
     html = (store.HERE / "static" / "terms.html").read_text(encoding="utf-8")
-    return html.replace("{{CONTACT}}", CONTACT_EMAIL).replace("{{UPDATED}}", TERMS_UPDATED).replace(
-        "{{YEAR}}", str(datetime.now().year)
+    return (
+        html.replace("{{CONTACT}}", CONTACT_EMAIL)
+        .replace("{{UPDATED}}", TERMS_UPDATED)
+        .replace("{{YEAR}}", str(datetime.now().year))
+        .replace("{{CANONICAL_TERMS}}", LEGAL_TERMS_URL)
     )
 
 
